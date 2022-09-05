@@ -3,4 +3,4 @@ project(cp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cp main.cpp cube.cpp red.cpp)
+add_executable(cp bact.cpp cube.cpp red.cpp)
